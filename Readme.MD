@@ -1,0 +1,1 @@
+Esta aplicación está preparada para acompañar a cada arquero en su desarrollo como deportista, intentando llevar estadísticas y consejos prácticos, tanto para el entrenamiento cómo para la competencia.
